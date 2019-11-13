@@ -2,16 +2,16 @@
 
 # Structure
 
-.
-├── build                   # Compiled files 
-├── contracts               # Smart Contracts written in Solidity language
-│   ├── Election.sol        # Election Contract 
-│   ├── Migration.sol       # Migration Contract
-├── migrations              # Migration Files for intitialization and deployment
-├── src                     # Website data using HTML, CSS, JS & web3
-├── test                    # Automated tests
-├── truffle.js              # Configuration file for running in truffle environment
-└── README.md             
+.<br/>
+├── build                   # Compiled files <br/>
+├── contracts               # Smart Contracts written in Solidity language<br/>
+│   ├── Election.sol        # Election Contract <br/>
+│   ├── Migration.sol       # Migration Contract<br/>
+├── migrations              # Migration Files for intitialization and deployment<br/>
+├── src                     # Website data using HTML, CSS, JS & web3<br/>
+├── test                    # Automated tests<br/>
+├── truffle.js              # Configuration file for running in truffle environment<br/>
+└── README.md             <br/>
 
 
 # Objectives:
