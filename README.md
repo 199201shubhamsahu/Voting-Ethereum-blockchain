@@ -27,7 +27,7 @@ Case 1: Ensuring that votes can be casted only between 10:00 AM to 7:00 PM.
 Case 2: Adding the constraint for the ganache users to enter username and password for verification to vote.
 
 # Schema:
-![Schema](https://drive.google.com/file/d/10TJeR7HlytDmZswFo5C9Scnz-T2ZNOFK/view?usp=sharing)
+![Schema](https://github.com/pizzasahu/Voting-Ethereum-blockchain/blob/master/DS_mini_project_schema.png)
 
 
 
