@@ -23,8 +23,8 @@ Ensuring all votes are counted.
 
 # Case Tests:
 
-# Case 1: Ensuring that votes can be casted only between 10:00 AM to 7:00 PM.
-# Case 2: Adding the constraint for the ganache users to enter username and password for verification to vote.
+Case 1: Ensuring that votes can be casted only between 10:00 AM to 7:00 PM.
+Case 2: Adding the constraint for the ganache users to enter username and password for verification to vote.
 
 # Schema:
 
